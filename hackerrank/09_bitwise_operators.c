@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

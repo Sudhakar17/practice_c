@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/playing-with-characters/problem
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -13,7 +14,7 @@ int main()
     scanf("%c",&ch);
     scanf("%s", s);
     scanf("\n");
-    scanf("%[^\n]%*c", sen);
+    scanf("%[^\n]%*c", sen); // https://stackoverflow.com/questions/30065675/what-does-scanf-nc-mean/30070821
     printf("%c\n%s\n%s",ch,s,sen);
 
     return 0;

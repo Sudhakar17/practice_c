@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
