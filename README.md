@@ -1,2 +1,2 @@
 # practice_c
-C code from Ritchie's book and hackerrank
+Hackerrank C problems and C code from Ritchie's book
