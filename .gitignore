@@ -1,0 +1,5 @@
+# to remove the binary file
+*
+!/**/
+!*.*
+*.out
